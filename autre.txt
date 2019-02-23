@@ -1,2 +1,7 @@
 ceci est un fichier txt de qualite
+<<<<<<< HEAD
+je suis un peu enerve puisque c'est chiant 
 j'ai envi de comprendre mon frere
+=======
+j'essaye de comprendre
+>>>>>>> 19d366c22ecea6e0fb24a5c489450968f43edd77
